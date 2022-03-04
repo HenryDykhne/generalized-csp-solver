@@ -1,0 +1,79 @@
+7  #_of_nodes
+
+3  #_of_states_var_0
+x1  node_label
+b
+g
+r
+4  1 2 3 6  neighbor
+0  #constraints_stored
+150 148  Coordinate
+
+2  #_of_states_var_1
+x2  node_label
+g
+b
+2  0 5  neighbor
+1  #constraints_stored
+0  4  nb/#legal_config
+0 0 ; 1 1 ; 2 0 ; 2 1 ; 
+33 349  Coordinate
+
+2  #_of_states_var_2
+x3  node_label
+r
+b
+2  0 6  neighbor
+1  #constraints_stored
+0  4  nb/#legal_config
+0 0 ; 1 0 ; 1 1 ; 2 1 ; 
+326 52  Coordinate
+
+2  #_of_states_var_3
+x4  node_label
+r
+b
+3  0 4 6  neighbor
+1  #constraints_stored
+0  4  nb/#legal_config
+0 0 ; 1 0 ; 1 1 ; 2 1 ; 
+275 267  Coordinate
+
+2  #_of_states_var_4
+x5  node_label
+g
+b
+3  3 5 6  neighbor
+1  #constraints_stored
+3  3  nb/#legal_config
+0 0 ; 0 1 ; 1 0 ; 
+599 267  Coordinate
+
+3  #_of_states_var_5
+x6  node_label
+r
+g
+y
+2  1 4  neighbor
+2  #constraints_stored
+1  5  nb/#legal_config
+0 0 ; 0 2 ; 1 0 ; 1 1 ; 1 2 ; 
+4  5  nb/#legal_config
+0 0 ; 0 2 ; 1 0 ; 1 1 ; 1 2 ; 
+511 349  Coordinate
+
+2  #_of_states_var_6
+x7  node_label
+r
+b
+4  0 2 3 4  neighbor
+4  #constraints_stored
+0  4  nb/#legal_config
+0 0 ; 1 0 ; 1 1 ; 2 1 ; 
+2  2  nb/#legal_config
+0 1 ; 1 0 ; 
+3  2  nb/#legal_config
+0 1 ; 1 0 ; 
+4  3  nb/#legal_config
+0 0 ; 0 1 ; 1 0 ; 
+486 148  Coordinate
